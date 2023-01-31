@@ -1,0 +1,123 @@
+Aptitude Assignment 2:-
+========================
+1. What quantity of water should be added to the milk water mixture so that
+the milk water ratio changes from 2:3 to 4:11. The quantity of milk in the
+mixture is 40 litres?
+
+Ans.     Let the quantity of water in the mixture be "w" litres. Then, the total quantity of the mixture is 40 + w litres.
+
+The initial ratio of milk to water in the mixture is 2:3, so the ratio of the quantity of milk to the quantity of water is 2/(2+3)=2/5.
+
+The final ratio of milk to water in the mixture should be 4:11, so the ratio of the quantity of milk to the quantity of water should be 4/(4+11)=4/15.
+
+So, we can write the following equation to find the quantity of water that should be added:
+(40 / (40 + w)) / (2/5) = (40 + w) / (4/15)
+
+Expanding and simplifying the equation:
+40 / (40 + w) = (40 + w) * (2/5) / (4/15)
+40 / (40 + w) = (40 + w) * (3/5) / (4/5)
+40 * (4/5) = (40 + w) * (3/5)
+160 = (40 + w) * (3/5)
+160 / (3/5) = (40 + w)
+160 * (5/3) = 40 + w
+533.33 = 40 + w
+w = 533.33 - 40
+w = 493.33
+
+So, 493.33 litres of water should be added to the mixture to change the milk to water ratio from 2:3 to 4:11.
+
+
+2. Linear equation 2x+3y=0 meets the x & y-axis at the point?
+
+Ans.  The equation 2x + 3y = 0 is a linear equation in the form y = -(2/3)x + b, where b is the y-intercept.
+
+The x-intercept occurs when y = 0, so substituting y = 0 into the equation we get:
+
+2x + 3 * 0 = 0
+2x = 0
+x = 0
+
+So, the x-intercept is (0,0).
+
+The y-intercept occurs when x = 0, so substituting x = 0 into the equation we get:
+
+2 * 0 + 3y = 0
+3y = 0
+y = 0
+
+So, the y-intercept is (0,0).
+
+Therefore, the line represented by the equation 2x + 3y = 0 meets both the x and y-axis at the point (0,0).
+
+3. a & b are positive integers such that a^2-b^=19. Find a & b?
+
+Ans.  The equation a^2 - b^2 = 19 can be factored as (a + b)(a - b) = 19. Since both a and b are positive integers, the only factor pairs of 19 that result in positive integers are (1,19) and (19,1).
+
+So, a + b = 1 or 19 and a - b = 19 or 1.
+
+For the first case, where a + b = 1, we have the equations:
+a + b = 1
+a - b = 19
+
+Adding these two equations, we get 2a = 20, so a = 10. Substituting this into either of the equations we found, we get:
+
+b = 1 - a
+b = 1 - 10
+b = -9
+
+Since b is a positive integer, this solution is not valid.
+
+For the second case, where a + b = 19, we have the equations:
+a + b = 19
+a - b = 1
+
+Adding these two equations, we get 2a = 20, so a = 10. Substituting this into either of the equations we found, we get:
+
+b = 19 - a
+b = 19 - 10
+b = 9
+
+Since both a and b are positive integers, the solution is a = 10 and b = 9.
+
+
+4. Find a^+b^3+c^3+3abc , where a+b+c=5 & , a^2+b^2+c^2=10?
+
+Ans. We can use the equations a + b + c = 5 and a^2 + b^2 + c^2 = 10 to find the values of a, b, and c.
+
+From the first equation, we have:
+c = 5 - (a + b)
+
+Substituting this into the second equation, we get:
+a^2 + b^2 + (5 - (a + b))^2 = 10
+a^2 + b^2 + 25 - 10a - 10b + a^2 + b^2 = 10
+25 - 10a - 10b = -15
+10a + 10b = 40
+a + b = 4
+
+Since a and b are positive integers, the only solution is a = 1 and b = 3. Substituting these values into the equation c = 5 - (a + b), we get:
+
+c = 5 - (1 + 3)
+c = 5 - 4
+c = 1
+
+Now that we have the values of a, b, and c, we can substitute them into the expression a^3 + b^3 + c^3 + 3abc to get the result:
+
+a^3 + b^3 + c^3 + 3abc = 1^3 + 3^3 + 1^3 + 3 * 1 * 3 * 1 = 1 + 27 + 1 + 27 = 56
+
+So, the expression a^3 + b^3 + c^3 + 3abc is equal to 56.
+
+5. Sum of two, two-digit numbers is a perfect square. The digits of the first
+two-digit number are two consecutive positive integers; also, when the digits
+of the first number are reversed, the second number is formed. Find these
+numbers & the square root of their sum.?
+
+Ans .  Let's consider the two-digit number AB, where A and B are two consecutive positive integers. The second number is then BA. The sum of these two numbers is AB + BA = 11A.
+
+We know that the sum must be a perfect square, so we can write:
+11A = N^2
+A = N^2 / 11
+
+Since A is a positive integer, we need to find the smallest value of N such that N^2 / 11 is a positive integer. The smallest value of N that satisfies this condition is N = 11, which gives A = 1. The two numbers are then 11 and 11. The square root of their sum is 11.
+
+So the two two-digit numbers are 11 and 11, and the square root of their sum is 11.
+
